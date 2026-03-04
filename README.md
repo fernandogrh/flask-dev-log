@@ -15,10 +15,10 @@ The goal was to understand how a server-side web application works beyond static
 
 ## 🧠 What I learned
 
-- structuring a Flask application using reusable templates
-- integrating external APIs into a web application
-- handling form submissions in Flask
-- managing configuration with environment variables
+- Structuring a Flask application using reusable templates
+- Integrating external APIs into a web application
+- Handling form submissions in Flask
+- Managing configuration with environment variables
 
 ## 🚀 Features
 - Home page that lists blog posts (loaded from an **external JSON API**)
