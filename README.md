@@ -9,6 +9,22 @@
 ### Full-stack Flask blog application with authentication, database relationships, and admin-controlled content management. 
 
 ---
+
+## 🌐 Live Demo
+
+🔗 [View Live Application](https://fernando-dev-log.onrender.com)
+
+Experience the fully deployed application:
+
+- Register and log in as a user
+- Create and manage blog posts (admin)
+- Leave comments on posts
+- Send messages through the contact form
+
+> ⚠️ Note: Hosted on Render's free tier — the app may take a few seconds to wake up on first visit.
+
+---
+
 ## 🧩 Why I built this
 
 I built this project to move beyond static websites and understand how real web applications work behind the scenes.
