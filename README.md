@@ -78,14 +78,15 @@ The goal was to shift from thinking in pages to thinking in systems.
 
 ## 🧠 What I learned
 
-<<<<<<< HEAD
 - Designing relational database models (users, posts, comments)
-=======
+
 - Structuring a Flask application using reusable templates
+
 - Integrating external APIs into a web application
+
 - Handling form submissions in Flask
+
 - Managing configuration with environment variables
->>>>>>> 48590e9712b8ec6f3078cf573fde5d20cf439151
 
 - Handling authentication and session management
 
