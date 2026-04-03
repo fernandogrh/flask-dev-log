@@ -6,7 +6,7 @@
 ![Auth](https://img.shields.io/badge/Auth-Login_System-blue)
 ![Security](https://img.shields.io/badge/Security-CSRF%20%2B%20Hashing-red)
 
-### Full-stack Flask blog application with authentication, database relationships, and admin-controlled content management. 
+### Deployed full-stack Flask web application featuring authentication, relational database design, and admin-controlled content management.
 
 ---
 
