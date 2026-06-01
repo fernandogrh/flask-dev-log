@@ -14,7 +14,7 @@
 
 🔗 [View Live Application](https://fernando-dev-log.onrender.com)
 
-Experience the fully deployed application:
+Key functionalities available in the deployed application:
 
 - Register and log in as a user
 - Create and manage blog posts (admin)
