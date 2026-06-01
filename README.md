@@ -6,9 +6,25 @@
 ![Auth](https://img.shields.io/badge/Auth-Login_System-blue)
 ![Security](https://img.shields.io/badge/Security-CSRF%20%2B%20Hashing-red)
 
-### Full-stack Flask blog application with authentication, database relationships, and admin-controlled content management. 
+### Deployed full-stack Flask web application featuring authentication, relational database design, and admin-controlled content management.
 
 ---
+
+## 🌐 Live Demo
+
+🔗 [View Live Application](https://fernando-dev-log.onrender.com)
+
+Experience the fully deployed application:
+
+- Register and log in as a user
+- Create and manage blog posts (admin)
+- Leave comments on posts
+- Send messages through the contact form
+
+> ⚠️ Note: Hosted on Render's free tier — the app may take a few seconds to wake up on first visit.
+
+---
+
 ## 🧩 Why I built this
 
 I built this project to move beyond static websites and understand how real web applications work behind the scenes.
@@ -78,14 +94,15 @@ The goal was to shift from thinking in pages to thinking in systems.
 
 ## 🧠 What I learned
 
-<<<<<<< HEAD
 - Designing relational database models (users, posts, comments)
-=======
+
 - Structuring a Flask application using reusable templates
+
 - Integrating external APIs into a web application
+
 - Handling form submissions in Flask
+
 - Managing configuration with environment variables
->>>>>>> 48590e9712b8ec6f3078cf573fde5d20cf439151
 
 - Handling authentication and session management
 
