@@ -6,7 +6,7 @@
 ![Auth](https://img.shields.io/badge/Auth-Login_System-blue)
 ![Security](https://img.shields.io/badge/Security-CSRF%20%2B%20Hashing-red)
 
-### Deployed full-stack Flask web application featuring authentication, relational database design, and admin-controlled content management.
+### Deployed full-stack Flask web application featuring authentication, relational database design, admin-controlled CRUD operations, commenting functionality, and SMTP email integration.
 
 ---
 
@@ -24,6 +24,40 @@ Experience the fully deployed application:
 > ⚠️ Note: Hosted on Render's free tier — the app may take a few seconds to wake up on first visit.
 
 ---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+Landing page displaying recent posts and project content.
+
+![Homepage](screenshots/homepage.png)
+
+---
+
+### 📝 Blog Post
+
+Dynamic blog post rendering with authenticated commenting functionality.
+
+![Blog Post](screenshots/post.png)
+
+---
+
+### 🔐 User Registration
+
+Authentication system built with Flask-Login and secure password hashing.
+
+![Register](screenshots/register.png)
+
+---
+
+### 📩 Contact Form
+
+Flask-WTF powered contact form integrated with SMTP email delivery.
+
+![Contact Form](screenshots/contact_form.png)
+
+
 
 ## 🧩 Why I built this
 
